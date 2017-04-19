@@ -1,0 +1,61 @@
+<svg height="926" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="926" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ krawler@0.3.3 </tspan>
+<tspan x="10" y="90">  ├── async@0.7.0 </tspan>
+<tspan x="10" y="106">  ├─┬ cheerio@0.15.0 </tspan>
+<tspan x="10" y="122">  │ ├─┬ CSSselect@0.4.1 </tspan>
+<tspan x="10" y="138">  │ │ ├── CSSwhat@0.4.7 </tspan>
+<tspan x="10" y="154">  │ │ └── domutils@1.4.3 </tspan>
+<tspan x="10" y="170">  │ ├── entities@1.0.0 </tspan>
+<tspan x="10" y="186">  │ ├─┬ htmlparser2@3.7.3 </tspan>
+<tspan x="10" y="202">  │ │ ├── domelementtype@1.3.0 </tspan>
+<tspan x="10" y="218">  │ │ ├── domhandler@2.2.1 </tspan>
+<tspan x="10" y="234">  │ │ ├─┬ domutils@1.5.1 </tspan>
+<tspan x="10" y="250">  │ │ │ └─┬ dom-serializer@0.1.0 </tspan>
+<tspan x="10" y="266">  │ │ │   ├── domelementtype@1.1.3 </tspan>
+<tspan x="10" y="282">  │ │ │   └── entities@1.1.1 </tspan>
+<tspan x="10" y="298">  │ │ └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="314">  │ │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="330">  │ │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="346">  │ │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="362">  │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="378">  │ └── lodash@2.4.2 </tspan>
+<tspan x="10" y="394">  ├─┬ encoding@0.1.12 </tspan>
+<tspan x="10" y="410">  │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="426">  ├── jschardet@1.1.1 </tspan>
+<tspan x="10" y="442">  ├── q@1.0.1 </tspan>
+<tspan x="10" y="458">  ├─┬ request@2.34.0 </tspan>
+<tspan x="10" y="474">  │ ├── aws-sign2@0.5.0 </tspan>
+<tspan x="10" y="490">  │ ├── forever-agent@0.5.2 </tspan>
+<tspan x="10" y="506">  │ ├─┬ form-data@0.1.4 </tspan>
+<tspan x="10" y="522">  │ │ ├── async@0.9.2 </tspan>
+<tspan x="10" y="538">  │ │ └─┬ combined-stream@0.0.7 </tspan>
+<tspan x="10" y="554">  │ │   └── delayed-stream@0.0.5 </tspan>
+<tspan x="10" y="570">  │ ├─┬ hawk@1.0.0 </tspan>
+<tspan x="10" y="586">  │ │ ├── boom@0.4.2 </tspan>
+<tspan x="10" y="602">  │ │ ├── cryptiles@0.2.2 </tspan>
+<tspan x="10" y="618">  │ │ ├── hoek@0.9.1 </tspan>
+<tspan x="10" y="634">  │ │ └── sntp@0.2.4 </tspan>
+<tspan x="10" y="650">  │ ├─┬ http-signature@0.10.1 </tspan>
+<tspan x="10" y="666">  │ │ ├── asn1@0.1.11 </tspan>
+<tspan x="10" y="682">  │ │ ├── assert-plus@0.1.5 </tspan>
+<tspan x="10" y="698">  │ │ └── ctype@0.5.3 </tspan>
+<tspan x="10" y="714">  │ ├── json-stringify-safe@5.0.1 </tspan>
+<tspan x="10" y="730">  │ ├── mime@1.2.11 </tspan>
+<tspan x="10" y="746">  │ ├── node-uuid@1.4.8 </tspan>
+<tspan x="10" y="762">  │ ├── oauth-sign@0.3.0 </tspan>
+<tspan x="10" y="778">  │ ├── qs@0.6.6 </tspan>
+<tspan x="10" y="794">  │ ├─┬ tough-cookie@2.3.2 </tspan>
+<tspan x="10" y="810">  │ │ └── punycode@1.4.1 </tspan>
+<tspan x="10" y="826">  │ └── tunnel-agent@0.3.0 </tspan>
+<tspan x="10" y="842">  ├── underscore@1.6.0 </tspan>
+<tspan x="10" y="858">  └─┬ xml2js@0.4.17 </tspan>
+<tspan x="10" y="874">    ├── sax@1.2.2 </tspan>
+<tspan x="10" y="890">    └─┬ xmlbuilder@4.2.1 </tspan>
+<tspan x="10" y="906">      └── lodash@4.17.4</tspan>
+</text>
+</svg>
